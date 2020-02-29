@@ -66,6 +66,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\VideoController.cs" />
+    <Compile Include="Controllers\VideoCreateController.cs" />
+    <Compile Include="Controllers\VideoDeleteController.cs" />
+    <Compile Include="Controllers\VideoModController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -76,6 +80,10 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Views\Home\Index.aspx" />
+    <Content Include="Views\VideoCreate\Index.aspx" />
+    <Content Include="Views\VideoDelete\Index.aspx" />
+    <Content Include="Views\VideoMod\Index.aspx" />
+    <Content Include="Views\Video\Index.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

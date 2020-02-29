@@ -2,3 +2,7 @@ c:\users\aldo_\documents\visual studio 2010\Projects\MvcAldoTijerina\MvcAldoTije
 c:\users\aldo_\documents\visual studio 2010\Projects\MvcAldoTijerina\MvcAldoTijerina\bin\MvcAldoTijerina.pdb
 c:\users\aldo_\documents\visual studio 2010\Projects\MvcAldoTijerina\MvcAldoTijerina\obj\Debug\MvcAldoTijerina.dll
 c:\users\aldo_\documents\visual studio 2010\Projects\MvcAldoTijerina\MvcAldoTijerina\obj\Debug\MvcAldoTijerina.pdb
+C:\Users\aldo_\Desktop\MvcAldoTijerina\MvcAldoTijerina\bin\MvcAldoTijerina.dll
+C:\Users\aldo_\Desktop\MvcAldoTijerina\MvcAldoTijerina\bin\MvcAldoTijerina.pdb
+C:\Users\aldo_\Desktop\MvcAldoTijerina\MvcAldoTijerina\obj\Debug\MvcAldoTijerina.dll
+C:\Users\aldo_\Desktop\MvcAldoTijerina\MvcAldoTijerina\obj\Debug\MvcAldoTijerina.pdb
