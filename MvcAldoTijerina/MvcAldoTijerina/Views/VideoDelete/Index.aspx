@@ -8,8 +8,22 @@
 </head>
 <body>
     <div>
-        <h1> prueba
+        <h1> Elimina un video
         </h1>
+        <form action="/VideoDelete/Index" method="post">
+        <fieldset>
+        <legend>Ingresa el video que desees eliminar</legend>
+
+        <label for="idVideo">idVideo</label>
+            <input type="text" name="idVideo"/>
+
+            <br />
+
+            <input type="submit" value="eliminar" />
+
+        </fieldset>               
+        </form>
+        
     </div>
 </body>
 </html>

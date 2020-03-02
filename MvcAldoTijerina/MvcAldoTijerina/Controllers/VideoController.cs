@@ -16,9 +16,9 @@ namespace MvcAldoTijerina.Controllers
         public ActionResult Index()
         {
             //Consultar datos en la DB
-            ViewData["video"] = BaseHelper.ejecutarConsulta(
+            /*ViewData["video"] = BaseHelper.ejecutarConsulta(
                 "SELECT * FROM video",
-                CommandType.Text);
+                CommandType.Text);*/
             return View();
         }
 
